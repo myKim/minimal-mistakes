@@ -39,9 +39,9 @@ $ brew install node@8
 
 ## NVM(Node Version Manager)으로 설치
 
-### brew로 NVM 설치
+### Homebrew로 NVM 설치
 
-**Homebrew** 를 이용해서 NVM 을 설치한다.
+`brew`를 이용해서 NVM 을 설치한다.
 
 ```bash
 $ brew install nvm
