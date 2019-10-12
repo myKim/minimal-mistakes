@@ -7,7 +7,7 @@ tags:
   - nodejs
 ---
 
-![nodejs_logo](/assets/images/node_js_install/nodejs_logo.svg)
+![nodejs_logo](/assets/images/nodejs_01_install/nodejs_logo.svg)
 
 # 설치
 
@@ -17,7 +17,7 @@ tags:
 
 [Node.js 공식사이트](https://nodejs.org/)에 접속해서 직접 설치한다.
 
- ![nodejs_install_page](/assets/images/node_js_install/nodejs_install_page.png)
+ ![nodejs_install_page](/assets/images/nodejs_01_install/nodejs_install_page.png)
 
 **LTS(Long Term Supported) 버전**은 장기적으로 안정되고 신뢰도고 높은 지원이 보장되는 버전으로, 대부분의 사용자에게 추천되는 버전이다.
 
@@ -106,6 +106,21 @@ $ nvm use 8
 $ nvm ls
 ```
 
+# 설치 확인
+
+설치가 정상적으로 완료되었다면 **Node.js**와 **npm(Node Package Manager)** 가 설치된다. 아래의 명령어를 입력해서 버전이 표시되면 정상설치 된 것이다. 
+
+```bash
+# Node.js 버전 확인 
+$ node -v
+
+# npm 버전 확인
+$ npm -v
+```
+
+![nodejs_version_check](/assets/images/nodejs_01_install/nodejs_version_check.png)
+
 # 참고
 - https://medium.com/@moralmk/node-js-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-84818ceeff08
 - https://heropy.blog/2018/02/17/node-js-install/
+- https://opentutorials.org/course/3332/21029
