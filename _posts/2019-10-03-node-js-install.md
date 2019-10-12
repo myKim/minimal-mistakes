@@ -108,6 +108,8 @@ $ nvm ls
 
 # 설치 확인
 
+## 버전 확인
+
 설치가 정상적으로 완료되었다면 **Node.js**와 **npm(Node Package Manager)** 가 설치된다. 아래의 명령어를 입력해서 버전이 표시되면 정상설치 된 것이다. 
 
 ```bash
@@ -119,6 +121,31 @@ $ npm -v
 ```
 
 ![nodejs_version_check](/assets/images/nodejs_01_install/nodejs_version_check.png)
+
+## 실행
+
+Node.js가 설치되면 이를 통해 JavaScript를 실행할 수 있다.
+
+### 터미널에서 JavaScript 실행
+
+짧은 JavaScript 코드를 터미널에서 바로 실행할 수 있다.
+터미널에서 `node`를 입력하면 추가적으로 입력을 받는 `>` 아이콘으로 변경되는데 여기에 JavaScript 문법을 입력하면 해당 기능이 실행된다.
+
+![nodejs_hello_world_01](/assets/images/nodejs_01_install/nodejs_hello_world_01.png)
+
+입력모드를 종료하기 위해서는 키보드에서 `^C`(control + C)를 두번 입력하거나 `.exit` 명령어를 입력한다. 
+
+![nodejs_hello_world_02](/assets/images/nodejs_01_install/nodejs_hello_world_02.png)
+
+### .js 파일 실행
+
+JavaScript 파일도 실행할 수 있다. 아래와 같이 vim 에디터로 임의의 .js 파일을 만들어 주었다.
+
+![nodejs_hello_world_03](/assets/images/nodejs_01_install/nodejs_hello_world_03.png)
+
+`node [파일명]`을 입력해서 .js 파일을 실행한다.
+
+![nodejs_hello_world_04](/assets/images/nodejs_01_install/nodejs_hello_world_04.png)
 
 # 참고
 - https://medium.com/@moralmk/node-js-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-84818ceeff08
