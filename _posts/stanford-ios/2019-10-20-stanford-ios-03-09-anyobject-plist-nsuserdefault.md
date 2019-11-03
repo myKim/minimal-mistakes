@@ -1,5 +1,5 @@
 ---
-title: "[Stanford iOS 강의 정리][03강] Initializaztion"
+title: "[Stanford iOS 강의 정리][03강] AnyObject"
 category:
   - iOS
   - swift
