@@ -1,5 +1,5 @@
 ---
-title: "[Stanford iOS 강의 정리] Tuple"
+title: "[Stanford iOS 강의 정리][03강] Tuple"
 category:
   - iOS
   - swift
