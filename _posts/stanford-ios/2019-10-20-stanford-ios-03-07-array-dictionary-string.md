@@ -1,4 +1,12 @@
-
+---
+title: "[Stanford iOS 강의 정리][03강] Array, Dictionary, String"
+category:
+  - iOS
+  - swift
+tags: 
+  - iOS
+  - swift
+---
 
 # Array
 

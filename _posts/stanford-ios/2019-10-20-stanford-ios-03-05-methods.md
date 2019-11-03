@@ -1,5 +1,5 @@
 ---
-title: "Methods"
+title: "[Stanford iOS 강의 정리][03강] Methods"
 category:
   - iOS
   - swift

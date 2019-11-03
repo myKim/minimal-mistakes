@@ -1,5 +1,10 @@
-
-
+---
+title: "[Effective Objective-C 정리][아이템 08] 객체의 동등 비교를 이용하라"
+category:
+  - objective-c
+tags: 
+  - objective-c
+---
 
 # 아이템 8 : 객체의 동등 비교를 이용하라
 

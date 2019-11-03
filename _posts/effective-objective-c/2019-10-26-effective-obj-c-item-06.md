@@ -1,6 +1,10 @@
-
-
-
+---
+title: "[Effective Objective-C 정리][아이템 06] 프로퍼티를 이해하라"
+category:
+  - objective-c
+tags: 
+  - objective-c
+---
 
 # 아이템 6: 프로퍼티를 이해하라
 

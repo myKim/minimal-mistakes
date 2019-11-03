@@ -1,5 +1,10 @@
-
-
+---
+title: "[Effective Objective-C 정리][아이템 04] 전처리기 #define보다는 타입이 있는 상수를 사용하라"
+category:
+  - objective-c
+tags: 
+  - objective-c
+---
 
 # 전처리기 #define보다는 타입이 있는 상수를 사용하라
 

@@ -1,5 +1,5 @@
 ---
-title: "Properties"
+title: "[Stanford iOS 강의 정리][03강] Properties"
 category:
   - iOS
   - swift

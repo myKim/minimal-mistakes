@@ -1,5 +1,10 @@
-
-
+---
+title: "[Effective Objective-C 정리][아이템 09] 클래스 클러스터 패턴을 사용해 구현의 상세 내용을 숨기라"
+category:
+  - objective-c
+tags: 
+  - objective-c
+---
 
 # 아이템 9 : 클래스 클러스터 패턴을 사용해 구현의 상세 내용을 숨기라
 

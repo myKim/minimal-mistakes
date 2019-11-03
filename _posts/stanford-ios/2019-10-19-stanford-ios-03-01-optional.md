@@ -1,5 +1,5 @@
 ---
-title: "Optional"
+title: "[Stanford iOS 강의 정리][03강] Optional"
 category:
   - iOS
   - swift

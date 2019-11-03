@@ -1,5 +1,10 @@
-
-
+---
+title: "[Effective Objective-C 정리][아이템 07] 인스턴스 변수에 내부에서 접근할 때는 직접 접근하라"
+category:
+  - objective-c
+tags: 
+  - objective-c
+---
 
 # 아이템 7 : 인스턴스 변수에 내부에서 접근할 때는 직접 접근하라
 
